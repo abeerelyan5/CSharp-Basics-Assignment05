@@ -1,4 +1,4 @@
-﻿public enum DayOfWeek { Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday }
+public enum DayOfWeek { Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday, Friday }
 
 public enum Grade { A, B, C, D, F }
 
