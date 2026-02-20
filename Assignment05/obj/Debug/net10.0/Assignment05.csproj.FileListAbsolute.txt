@@ -1,0 +1,14 @@
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\Assignment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\Assignment05.AssemblyInfoInputs.cache
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\Assignment05.AssemblyInfo.cs
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\Assignment05.csproj.CoreCompileInputs.cache
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\bin\Debug\net10.0\Assignment05.exe
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\bin\Debug\net10.0\Assignment05.deps.json
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\bin\Debug\net10.0\Assignment05.runtimeconfig.json
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\bin\Debug\net10.0\Assignment05.dll
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\bin\Debug\net10.0\Assignment05.pdb
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\Assignment05.dll
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\refint\Assignment05.dll
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\Assignment05.pdb
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\Assignment05.genruntimeconfig.cache
+C:\Users\El Hashumi\source\repos\CSharpBasics\Assignment05\obj\Debug\net10.0\ref\Assignment05.dll
